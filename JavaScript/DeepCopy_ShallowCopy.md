@@ -125,7 +125,11 @@ console.log(clonedObj.b.d === obj.b.d); // false
 
 ##### 나라
 
-<!-- 답변 -->
+- 순환참조하는 객체를 복사하는 법
+  [https://lazydev.gatsbyjs.io/javascript/different-ways-to-copy-objects-in-js/]
+
+- \_cloneDeepWith 예제들..
+  [https://lodash.com/docs/4.17.15#cloneDeep]
 
 ##### 슬기
 
