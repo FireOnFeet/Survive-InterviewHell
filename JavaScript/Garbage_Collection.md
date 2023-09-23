@@ -183,7 +183,8 @@ JavaScript의 가비지 컬렉션 방식은 웹 브라우저 환경에서 동작
 
 ##### 나라
 
-<!-- 답변 -->
+[javascript 메모리 누수](https://yceffort.kr/2020/07/memory-leaks-in-javascript)
+[javascript 가비지 컬렉션](https://ko.javascript.info/garbage-collection)
 
 ##### 슬기
 
