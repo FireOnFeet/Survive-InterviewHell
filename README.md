@@ -42,8 +42,7 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 
 1. 미리 약속한 시간에는 무조건 참여. 예외 상황이 발생하더라도 전화로는 꼭 참여하기.
 2. 주말에는 하루 쉬기. 그 날은 금요일에 정함.
-3. 스터디 시간 30분 초과 금지.
-4. 주제에 관한 준비는 필수.
+3. 한 개념의 1일째 같이 개념 공부 후 같이 예상 질문 만들기-> PR로 답변 정리해오기 -> 같은 개념 2일째 면접 형식으로 진행
 
 ## 기타 정보
 
@@ -55,8 +54,20 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 [김슬기](https://github.com/sgsg9447)
 [유한나라](https://github.com/nara04040)
 
+<<<<<<< HEAD
 ## 핸드북
 
 ### JavaScript
 
 - [Garbae_Collection](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Garbage_Collection.md)
+=======
+## 스터디 로그
+
+### JavaScript
+
+- [DeepCopy_ShallowCopy (230918, 230920)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/DeepCopy_ShallowCopy.md)
+
+- [Garbage_Collection (230922, 230923)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Garbage_Collection.md)
+
+- [Execution_Context (230925, 230926)]()
+>>>>>>> main
