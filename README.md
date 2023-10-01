@@ -54,13 +54,6 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 [김슬기](https://github.com/sgsg9447)
 [유한나라](https://github.com/nara04040)
 
-<<<<<<< HEAD
-## 핸드북
-
-### JavaScript
-
-- [Garbae_Collection](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Garbage_Collection.md)
-=======
 ## 스터디 로그
 
 ### JavaScript
@@ -69,5 +62,4 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 
 - [Garbage_Collection (230922, 230923)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Garbage_Collection.md)
 
-- [Execution_Context (230925, 230926)]()
->>>>>>> main
+- [Execution_Context (230925, 230926, 231001)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Execution_Context.md)
