@@ -128,7 +128,7 @@
 
 ##### 나라
 
-<!-- 답변 -->
+[EventHandler에서의 this값](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener#%EC%98%88%EC%A0%9C)
 
 ##### 슬기
 
