@@ -64,4 +64,6 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 
 - [Execution_Context (230925, 230926, 231001)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Execution_Context.md)
 
-- [This (231002)]()
+- [This (231002, 231003)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/This.md)
+
+- [Synchronous_Asynchronous (231004)]()
