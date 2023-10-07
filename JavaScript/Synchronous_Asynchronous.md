@@ -164,4 +164,9 @@
 
 ### 슬기
 
+[비동기처리는 무조건 async/await 아닌가요?](https://www.youtube.com/watch?v=Z1zHOh45NDU)
+[Block vs Non-Block & Sync vs Async](https://www.youtube.com/watch?v=IdpkfygWIMk&t=17s)
+[멍토의 Blocking vs Non-Blocking, Sync vs Async](https://www.youtube.com/watch?v=oEIoqGd-Sns&t=1s)
+[카일의 프론트엔드의 비동기](https://www.youtube.com/watch?v=fsmekO1fQcw)
+
 ---
