@@ -53,6 +53,7 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 
 [김슬기](https://github.com/sgsg9447)
 [유한나라](https://github.com/nara04040)
+[현정호](https://github.com/hyeon9782)
 
 ## 스터디 로그
 
@@ -66,4 +67,8 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 
 - [This (231002, 231003)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/This.md)
 
-- [Synchronous_Asynchronous (231004)]()
+- [Synchronous_Asynchronous (231004)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/JavaScript/Synchronous_Asynchronous.md)
+
+### Browser
+
+- [Browser_Rendering (231009)]()
