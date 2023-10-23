@@ -74,3 +74,5 @@ _"발등에 불똥이 떨어지면.... 해내고야만다"_
 - [Browser_Rendering (231009,231012)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/Browser/Browser_Rendering.md)
 
 - [Network (231013)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/Browser/Network.md)
+
+- [Browser Storage (231023)](https://github.com/FireOnFeet/Survive-InterviewHell/blob/main/Browser/Browser_Storage.md)
